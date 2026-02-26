@@ -1,0 +1,7 @@
+project_id = "cozjjefidkgcwyohnslt"
+
+[functions.webhook-proxy]
+verify_jwt = false
+
+[functions.owner-data]
+verify_jwt = false
