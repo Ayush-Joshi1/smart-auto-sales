@@ -80,7 +80,7 @@ const Index = () => {
       {/* Footer */}
       <footer className="border-t py-8">
         <div className="container text-center text-sm text-muted-foreground">
-          © 2026 SmartAuto Sales. Enterprise Automation Platform.
+          © 2026 SmartAuto Sales By Unorthodox. Enterprise Automation Platform.
         </div>
       </footer>
     </div>

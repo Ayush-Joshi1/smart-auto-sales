@@ -7,10 +7,10 @@ const corsHeaders = {
 };
 
 const WEBHOOK_URLS: Record<string, string> = {
-  order: "https://techy.app.n8n.cloud/webhook/tally-sales-order",
-  invoice: "https://techy.app.n8n.cloud/webhook/generate-invoice",
-  complaint: "https://techy.app.n8n.cloud/webhook/sales-complaint",
-  review: "https://techy.app.n8n.cloud/webhook/submit-your-review",
+  order: "https://ayush24.app.n8n.cloud/webhook/tally-sales-order",
+  invoice: "https://ayush24.app.n8n.cloud/webhook/generate-invoice",
+  complaint: "https://ayush24.app.n8n.cloud/webhook/sales-complaint",
+  review: "https://ayush24.app.n8n.cloud/webhook/submit-your-review",
 };
 
 serve(async (req) => {
